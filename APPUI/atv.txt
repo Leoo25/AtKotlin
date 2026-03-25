@@ -1,0 +1,16 @@
+1. Material Design
+Interface intuitiva: visual, animação, feedback e consistência.
+
+2. EditText x TextInputEditText
+
+EditText: básico
+TextInputEditText: moderno (com Material Design) 
+
+3. CoordinatorLayout
+Controla interação entre componentes (scroll, animações).
+
+4. SnackBar
+Mensagem rápida com ação (ex: desfazer).
+
+5. BottomNavigationView
+Menu inferior para navegação rápida entre telas.
