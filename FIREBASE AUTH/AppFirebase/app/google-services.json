@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "59238885726",
+    "project_id": "aulakotlin-82247",
+    "storage_bucket": "aulakotlin-82247.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:59238885726:android:949806ec6b23e2810c87cf",
+        "android_client_info": {
+          "package_name": "br.edu.fatecpg.appfirebase"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCrSgzEQCMGrd0LtPZXxdR9zn0UN7fQhHg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
